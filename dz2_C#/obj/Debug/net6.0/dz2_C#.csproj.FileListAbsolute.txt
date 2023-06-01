@@ -1,0 +1,15 @@
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.csproj.AssemblyReference.cache
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.AssemblyInfoInputs.cache
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.AssemblyInfo.cs
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.csproj.CoreCompileInputs.cache
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\bin\Debug\net6.0\dz2_C#.exe
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\bin\Debug\net6.0\dz2_C#.deps.json
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\bin\Debug\net6.0\dz2_C#.runtimeconfig.json
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\bin\Debug\net6.0\dz2_C#.dll
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\bin\Debug\net6.0\dz2_C#.pdb
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.dll
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\refint\dz2_C#.dll
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.pdb
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\dz2_C#.genruntimeconfig.cache
+C:\Users\Захматова\Desktop\dz_C#\dz2_C#\obj\Debug\net6.0\ref\dz2_C#.dll
